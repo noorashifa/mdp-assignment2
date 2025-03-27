@@ -44,15 +44,6 @@ from IPython.display import HTML
 HTML(anim.to_jshtml())
 ```
 
-## File Structure
-
-```
-grid-mdp-assignment/
-├── grid_navigation_mdp.ipynb      # Main notebook
-├── grid_navigation.gif            # Optional exported animation
-├── README.md                      # This file
-```
-
 ## Author
 
 Noora Shifa  
