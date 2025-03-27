@@ -28,8 +28,4 @@ This project implements a Markov Decision Process (MDP) for a grid-based road na
 2. Run all cells to generate the visualization.
 3. Use `HTML(anim.to_jshtml())` to render the animation inline in Colab.
 
-## Optional Export
 
-To save the animation:
-```python
-anim.save('grid_navigation.gif', writer='pillow')
